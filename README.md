@@ -1,6 +1,6 @@
 # how to right click on a mac
 
-[![how to right click on a mac](gett-stateed.png)](https://github.com/techjury/how.to.right.click.on.a.mac)
+[![how to right click on a mac](gett-stateed.png)](https://icncomputer.com/how-to-right-click-on-a-mac-mouse/)
 
 Despite the wealth of two button mice available for use with Macs, the question of how to right click on a Mac or MacBook continues to be asked, so if you aren’t sure how to right-click on a Mac you’re not alone. Years ago Apple famously insisted that a one-button mouse was the way to go, rather than the two-button mouse preferred by Windows users – the legacy of this decision has been a lot of confusion about how to right click on a Mac.
 
